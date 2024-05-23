@@ -1,4 +1,2 @@
--- Script: 0-list_databases.sql
--- This script lists all databases in the MySQL server.
-
+-- Script that list all databases in MYSQL server
 SHOW DATABASES;
